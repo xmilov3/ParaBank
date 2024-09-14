@@ -5,10 +5,10 @@ describe("Fund Transfer", () => {
     cy.visit("http://localhost:8080/parabank/index.htm");
   });
 
-  it("should allow the user to transfer funds between accounts", () => {
+  it("Should allow the user to transfer 10$ between accounts", () => {
     // Logging in to the account
     cy.get('input[name="username"]').type("john123");
-    cy.get('input[name="password"]').type("John123");
+    cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
     // Check that login was successful
@@ -34,5 +34,7 @@ describe("Fund Transfer", () => {
     cy.get("#rightPanel").should("contain", "Transfer Complete!");
     cy.get("#amountResult").should("contain", `${transferAmount}`);
     cy.get("#toAccountIdResult").should("contain", `${toAccount}`);
+    cy.wait(1000);
+    cy.xpath("//a[text()='Log Out']").click();
   });
 });

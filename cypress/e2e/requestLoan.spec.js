@@ -8,10 +8,10 @@ describe("Loan Application", () => {
     cy.visit("http://localhost:8080/parabank/index.htm");
   });
 
-  it("should allow the user to apply for a loan with random data", () => {
+  it("Should allow user to apply for a loan with random data", () => {
     // Logging before test
     cy.get('input[name="username"]').type("john123");
-    cy.get('input[name="password"]').type("John123");
+    cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
     // Check that login was successful
@@ -32,7 +32,11 @@ describe("Loan Application", () => {
 
     // Verify that the loan request was processed with the random values
     cy.get("#rightPanel").should("contain", "Loan Request Processed");
-    //cy.get("#rightPanel").should("contain", `Loan Amount: ${loanAmount}`);
-    //cy.get("#rightPanel").should("contain", `Down Payment: ${downPayment}`);
+    cy.get("#rightPanel").should(
+      "contain",
+      "Congratulations, your loan has been approved."
+    );
+    cy.wait(1000);
+    cy.xpath("//a[text()='Log Out']").click();
   });
 });
