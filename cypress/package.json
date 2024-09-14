@@ -1,0 +1,17 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm publish"
+  },
+  "keywords": [
+    "]"
+  ],
+  "author": "Bartosz Milewski",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0"
+  }
+}
