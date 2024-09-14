@@ -4,7 +4,9 @@
   "description": "node_modules",
   "main": "index.js",
   "scripts": {
-    "test": "npm publish"
+    "test": "npm publish",
+    "start": "http-server ./ -p 8080",
+    "cy:run": "cypress run"
   },
   "keywords": [
     "]"

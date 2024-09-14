@@ -7,8 +7,10 @@ const { defineConfig } = require("cypress");
 //},
 //},
 //});
-module.exports = {
+module.exports = defineConfig({
   e2e: {
-    specPattern: "cypress/e2e/**/*.spec.js", // zmień wzorzec, aby rozpoznawać .cy.js
+    baseUrl: "http://localhost:8080/parabank/index.htm",
+    specPattern: "cypress/e2e/**/*.spec.js",
+    setupNodeEvents(on, config) {},
   },
-};
+});
