@@ -26,16 +26,19 @@ jobs:
 
       - name: Install dependencies
         run: |
+          cd parabank
           npm install
 
       - name: Start the server
         run: |
+          cd parabank
           npm start &
         env:
           CYPRESS_baseUrl: "http://localhost:8080/parabank/index.htm"
 
       - name: Run Cypress tests
         run: |
-          npx cypress run cypress.config.js
+          cd parabank
+          npx cypress run --config-file ../cypress.config.js
         env:
           CI: true
