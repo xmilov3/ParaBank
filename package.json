@@ -5,12 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "npm publish",
-    "start": "http-server ./ -p 8080",
-    "cy:run": "cypress run"
+    "start": "http-server ./ -p 8443",
+    "cy:run": "cypress run --config-file cypress.config.js"
   },
-  "keywords": [
-    "]"
-  ],
+  "keywords": [],
   "author": "Bartosz Milewski",
   "license": "ISC",
   "devDependencies": {

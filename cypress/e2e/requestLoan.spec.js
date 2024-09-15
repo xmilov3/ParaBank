@@ -2,12 +2,6 @@
 const { faker } = require("@faker-js/faker");
 
 describe("Loan Application", () => {
-  beforeEach(() => {
-    // Clearing cookies
-    cy.clearCookies();
-    cy.visit("http://localhost:8080/parabank/index.htm");
-  });
-
   it("Should allow user to apply for a loan with random data", () => {
     // Logging before test
     cy.get('input[name="username"]').type("john123");

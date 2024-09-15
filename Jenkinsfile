@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Install Dependencies') {
             steps {
-                
+                dir('parabank')
                 sh 'npm install'
             }
         }
@@ -24,17 +24,9 @@ pipeline {
 
         stage('Run Cypress Tests') {
             steps {
-                
+                dir('parabank')
                 sh 'npx cypress run'
             }
-        }
-    }
-
-    post {
-        always {
-            
-            archiveArtifacts artifacts: 'cypress/screenshots/**/*.png', allowEmptyArchive: true
-            archiveArtifacts artifacts: 'cypress/videos/**/*.mp4', allowEmptyArchive: true
         }
     }
 }

@@ -22,6 +22,7 @@ describe("Transaction Search", () => {
     cy.get("#accountId").select(accNumber);
 
     cy.get("#findByAmount").click();
+
     cy.wait(1000);
   });
 
@@ -52,6 +53,7 @@ describe("Transaction Search", () => {
     cy.get('input[id="transactionDate"]').type(formattedDate);
     cy.get("#accountId").select(accNumber);
     cy.get("#findByDate").click();
+
     cy.wait(1000);
     cy.xpath("//a[text()='Log Out']").click();
   });
@@ -84,9 +86,9 @@ describe("Transaction Search", () => {
     const oneWeekAgo = new Date();
     oneWeekAgo.setDate(today.getDate() - 7);
     const formattedOneWeekAgo =
-      ("0" + (oneWeekAgo.getMonth() + 1)).slice(-2) + // Month
+      ("0" + (oneWeekAgo.getMonth() + 1)).slice(-2) + // Month 14698
       "-" +
-      ("0" + oneWeekAgo.getDate()).slice(-2) + // Day
+      ("0" + oneWeekAgo.getDate()).slice(-2) + // Dzay
       "-" +
       oneWeekAgo.getFullYear(); // Year
 

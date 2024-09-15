@@ -15,7 +15,10 @@
 
 // Import commands.js using ES2015 syntax:
 import "./commands";
-
+beforeEach(() => {
+  cy.clearCookies();
+  cy.visit("http://localhost:8080/parabank/index.htm");
+});
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 require("cypress-xpath");

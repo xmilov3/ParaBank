@@ -1,10 +1,4 @@
 describe("Fund Transfer", () => {
-  beforeEach(() => {
-    // Clearing cookies and visiting the website
-    cy.clearCookies();
-    cy.visit("http://localhost:8080/parabank/index.htm");
-  });
-
   it("Should allow the user to transfer 10$ between accounts", () => {
     // Logging in to the account
     cy.get('input[name="username"]').type("john123");
