@@ -12,6 +12,7 @@
   "author": "Bartosz Milewski",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^9.0.0"
+    "@faker-js/faker": "^9.0.0",
+    "cypress": "^13.14.2"
   }
 }
