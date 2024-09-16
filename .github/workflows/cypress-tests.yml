@@ -16,6 +16,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: List directory contents
+        run: ls -R
+
+      - name: Create logs directory
+        run: mkdir -p tools/apache-tomcat-10.1.29/logs
+
       - name: Setup Java
         uses: actions/setup-java@v3
         with:
@@ -26,14 +32,22 @@ jobs:
         run: |
           cd tools/apache-tomcat-10.1.29/bin
           nohup ./startup.sh > ../logs/catalina.out 2>&1 &
-          # Wait for Tomcat to fully start
           sleep 30
 
-      - name: List directory contents
-        run: ls -R
+      - name: Cache Cypress binary
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/Cypress
+          key: ${{ runner.os }}-cypress-${{ hashFiles('ParaBank/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-cypress-
 
       - name: Install dependencies
         run: npm install
+
+      - name: Run Cypress install
+        run: npx cypress install
 
       - name: Run Cypress tests
         run: npx cypress run
