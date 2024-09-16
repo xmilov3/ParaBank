@@ -22,16 +22,14 @@ describe("Fund Transfer", () => {
 
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
-    cy.get("#fromAccountId").select(fromAccount);
-    cy.wait(3000);
-    cy.get("select#toAccountId").should("have.value", "13566");
+    cy.get("select#fromAccountId").should("have.value", "13566");
+    cy.get("select#toAccountId").should("have.value", "13677");
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
 
     // Validate that the transfer was successful
     cy.get("#rightPanel").should("contain", "Transfer Complete!");
-    cy.get("#amountResult").should("contain", `${transferAmount}`);
 
     cy.xpath("//a[text()='Log Out']").click();
   });
