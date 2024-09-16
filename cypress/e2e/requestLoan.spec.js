@@ -26,7 +26,7 @@ describe("Loan Application", () => {
 
     cy.get("#amount").type(loanAmount);
     cy.get("#downPayment").type(downPayment);
-    cy.get("#fromAccountId").select("13677");
+    cy.get("select#fromAccountId").should("have.value", "13566");
 
     cy.get('input.button[value="Apply Now"]').click();
 

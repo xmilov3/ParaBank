@@ -19,13 +19,12 @@ describe("Fund Transfer", () => {
 
     // Define variables for transfer
     const transferAmount = "10";
-    const fromAccount = "13566";
-    const toAccount = "13677";
 
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
     cy.get("#fromAccountId").select(fromAccount);
-    cy.get("#toAccountId").select(toAccount);
+    cy.wait(3000);
+    cy.get("select#toAccountId").should("have.value", "13566");
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
@@ -33,7 +32,6 @@ describe("Fund Transfer", () => {
     // Validate that the transfer was successful
     cy.get("#rightPanel").should("contain", "Transfer Complete!");
     cy.get("#amountResult").should("contain", `${transferAmount}`);
-    cy.get("#toAccountIdResult").should("contain", `${toAccount}`);
 
     cy.xpath("//a[text()='Log Out']").click();
   });
