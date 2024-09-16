@@ -22,10 +22,8 @@ describe("Fund Transfer", () => {
 
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
-    //cy.get("select#fromAccountId").should("have.value", "13566");
-    //cy.get("select#toAccountId").should("have.value", "13677");
-    //cy.get("select#fromAccountId").select("13566");
-    //cy.get("select#toAccountId").select("13677");
+    cy.get("select#fromAccountId").select("13566");
+    cy.get("select#toAccountId").select("13677");
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
