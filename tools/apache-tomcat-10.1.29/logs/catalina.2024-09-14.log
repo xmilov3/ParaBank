@@ -1,0 +1,1113 @@
+14-Sep-2024 12:54:04.039 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 12:54:04.044 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 12:57:42.694 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 12:57:42.697 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 12:58:48.863 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 12:58:48.867 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 14:32:54.429 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 14:32:54.434 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 14:33:01.471 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 14:33:01.480 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:27:10.908 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:27:10.912 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:27:24.404 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:27:24.408 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:28:31.234 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:28:31.237 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:29:14.864 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:29:14.869 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:29:30.498 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:29:30.502 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:36:58.551 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:36:58.556 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:37:44.152 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:37:44.156 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:18.685 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:18.688 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:30.006 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:30.009 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:43.808 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:43.812 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:53.540 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:38:53.545 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:39:39.462 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:39:39.465 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:40:08.600 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:40:08.606 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:13.437 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:13.443 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:16.334 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:16.345 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:38.234 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:41:38.239 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:42:59.916 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:42:59.919 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:58:12.820 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 15:58:12.825 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:13.291 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:13.296 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:40.386 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:40.389 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:54.042 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:09:54.047 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:18:53.218 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:18:53.223 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:19:09.877 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:19:09.882 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:19:59.741 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 17:19:59.745 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:35:19.892 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:35:19.898 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:36:12.331 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:36:12.335 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:36:52.123 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:36:52.127 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:07.176 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:07.183 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:23.967 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:23.973 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:35.479 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:37:35.486 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:38:10.336 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:38:10.340 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:38:19.828 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:38:19.833 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:39:19.984 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:39:19.990 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:39:33.809 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:39:33.816 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:01.198 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:01.204 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:50.803 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:50.806 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:59.076 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:40:59.080 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:10.936 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:10.941 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:18.270 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:18.277 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:26.233 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 18:41:26.239 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 20:09:59.070 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 20:09:59.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/conf/logging.properties
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 20:09:59.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/temp
+14-Sep-2024 20:09:59.085 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+14-Sep-2024 20:09:59.192 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 20:09:59.201 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:708)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:731)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:632)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:79)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1028)
+		... 13 more
+14-Sep-2024 20:09:59.201 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [213] milliseconds
+14-Sep-2024 20:09:59.219 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Sep-2024 20:09:59.219 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+14-Sep-2024 20:09:59.226 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war]
+14-Sep-2024 20:10:01.583 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 20:10:02.876 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+14-Sep-2024 20:10:02.881 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/parabank] startup failed due to previous errors
+14-Sep-2024 20:10:03.007 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 20:10:03.016 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war] has finished in [3,790] ms
+14-Sep-2024 20:10:03.016 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs]
+14-Sep-2024 20:10:03.035 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs] has finished in [19] ms
+14-Sep-2024 20:10:03.035 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager]
+14-Sep-2024 20:10:03.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager] has finished in [12] ms
+14-Sep-2024 20:10:03.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples]
+14-Sep-2024 20:10:03.225 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples] has finished in [178] ms
+14-Sep-2024 20:10:03.226 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT]
+14-Sep-2024 20:10:03.239 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT] has finished in [13] ms
+14-Sep-2024 20:10:03.240 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager]
+14-Sep-2024 20:10:03.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+14-Sep-2024 20:10:03.248 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4047] milliseconds
+14-Sep-2024 20:10:03.249 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:648)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:847)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+14-Sep-2024 20:10:03.249 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 20:10:03.249 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Sep-2024 20:10:03.281 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 20:10:03.282 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 20:10:20.187 SEVERE [http-nio-8080-exec-1] org.apache.coyote.http11.Http11Processor.service Error processing request
+	java.lang.IllegalStateException: java.nio.file.NoSuchFileException: /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/temp/0-parabank/WEB-INF/lib/jquery-3.7.1.jar
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:100)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.getResource(AbstractArchiveResourceSet.java:250)
+		at org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+		at org.apache.catalina.webresources.CachedResource.validateResource(CachedResource.java:127)
+		at org.apache.catalina.webresources.Cache.getResource(Cache.java:78)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+		at org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:202)
+		at org.apache.catalina.mapper.Mapper.internalMapWrapper(Mapper.java:903)
+		at org.apache.catalina.mapper.Mapper.internalMap(Mapper.java:809)
+		at org.apache.catalina.mapper.Mapper.map(Mapper.java:666)
+		at org.apache.catalina.connector.CoyoteAdapter.postParseRequest(CoyoteAdapter.java:697)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:339)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+	Caused by: java.nio.file.NoSuchFileException: /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/temp/0-parabank/WEB-INF/lib/jquery-3.7.1.jar
+		at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+		at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+		at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+		at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:148)
+		at java.base/java.nio.file.Files.readAttributes(Files.java:1851)
+		at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+		at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:718)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:252)
+		at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181)
+		at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+		at org.apache.catalina.webresources.AbstractArchiveResourceSet.openJarFile(AbstractArchiveResourceSet.java:300)
+		at org.apache.catalina.webresources.AbstractSingleArchiveResourceSet.getArchiveEntry(AbstractSingleArchiveResourceSet.java:96)
+		... 20 more
+14-Sep-2024 20:14:31.773 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 20:14:32.976 WARNING [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.11/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+ java.base@17.0.11/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1625)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 20:14:32.977 WARNING [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [ActiveMQ BrokerService[localhost] Task-2577] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 20:14:32.977 WARNING [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [ActiveMQ BrokerService[localhost] Task-2578] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 20:14:32.979 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@3025a4bd]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.980 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@1d4f66be]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.980 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@7c0d3201]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.980 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@3fc9e667]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.981 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@60cf303d]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.982 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@6dd33cc9]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.982 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@4c284d40]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.982 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@6999632b]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:32.983 SEVERE [http-nio-8080-exec-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@588f9c68]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@6d3235c0]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 20:14:34.536 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 20:14:35.531 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 20:14:35.770 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 20:14:35.775 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 20:14:35.779 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 20:14:35.780 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 20:14:35.797 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 20:14:35.797 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 20:14:35.813 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 20:14:35.851 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 20:14:35.859 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 20:14:35.861 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 20:14:35.869 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 20:14:35.870 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 20:14:35.877 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 20:14:35.877 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 20:14:35.934 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 20:14:35.963 INFO [http-nio-8080-exec-2] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 20:14:36.404 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:13:07.258 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:13:13.260 WARNING [http-nio-8080-exec-15] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:13:13.261 WARNING [http-nio-8080-exec-15] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:13:15.055 INFO [http-nio-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:13:16.164 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:13:16.373 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:13:16.378 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:13:16.382 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:13:16.383 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:13:16.401 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:13:16.401 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:13:16.416 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:13:16.457 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:13:16.467 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:13:16.470 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:13:16.478 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:13:16.479 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:13:16.487 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:13:16.488 INFO [http-nio-8080-exec-15] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:13:16.540 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:13:16.574 INFO [http-nio-8080-exec-15] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:13:17.051 INFO [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:13:35.161 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:18:40.500 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:18:46.397 WARNING [http-nio-8080-exec-27] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:18:48.143 INFO [http-nio-8080-exec-27] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:18:49.102 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:18:49.302 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:18:49.307 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:18:49.311 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:18:49.312 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:18:49.328 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:18:49.329 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:18:49.345 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:18:49.380 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:18:49.387 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:18:49.389 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:18:49.396 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:18:49.397 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:18:49.404 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:18:49.404 INFO [http-nio-8080-exec-27] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:18:49.455 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:18:49.485 INFO [http-nio-8080-exec-27] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:18:49.920 INFO [http-nio-8080-exec-27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:19:15.260 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:21:24.634 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:21:30.681 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:21:30.681 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:21:32.468 INFO [http-nio-8080-exec-31] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:21:33.421 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:21:33.612 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:21:33.616 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:21:33.620 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:21:33.621 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:21:33.636 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:21:33.637 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:21:33.650 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:21:33.689 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:21:33.697 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:21:33.701 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:21:33.708 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:21:33.709 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:21:33.717 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:21:33.717 INFO [http-nio-8080-exec-31] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:21:33.768 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:21:33.803 INFO [http-nio-8080-exec-31] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:21:34.248 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:21:48.309 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:22:38.918 INFO [http-nio-8080-exec-41] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:22:38.923 INFO [http-nio-8080-exec-41] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:25:44.360 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:25:50.299 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:25:50.299 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:25:50.299 SEVERE [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c336d5e]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@341bdcb1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:25:52.044 INFO [http-nio-8080-exec-43] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:25:53.031 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:25:53.219 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:25:53.223 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:25:53.227 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:25:53.228 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:25:53.244 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:25:53.244 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:25:53.260 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:25:53.299 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:25:53.307 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:25:53.309 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:25:53.315 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:25:53.316 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:25:53.323 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:25:53.324 INFO [http-nio-8080-exec-43] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:25:53.372 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:25:53.404 INFO [http-nio-8080-exec-43] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:25:53.826 INFO [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:26:02.656 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:26:42.921 INFO [http-nio-8080-exec-51] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:26:42.926 INFO [http-nio-8080-exec-51] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:28:58.476 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:29:04.695 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:29:04.695 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:29:04.695 WARNING [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-52-SelectorManager] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/sun.nio.ch.KQueue.poll(Native Method)
+ java.base@17.0.11/sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:122)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+ platform/java.net.http@17.0.11/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:889)
+14-Sep-2024 21:29:04.696 SEVERE [http-nio-8080-exec-60] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@38767c1c]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@1855de65]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:29:06.446 INFO [http-nio-8080-exec-60] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:29:07.390 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:29:07.591 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:29:07.595 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:29:07.599 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:29:07.600 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:29:07.615 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:29:07.616 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:29:07.629 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:29:07.668 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:29:07.675 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:29:07.677 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:29:07.683 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:29:07.684 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:29:07.691 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:29:07.691 INFO [http-nio-8080-exec-60] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:29:07.737 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:29:07.768 INFO [http-nio-8080-exec-60] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:29:08.195 INFO [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:29:22.237 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:29:57.310 INFO [http-nio-8080-exec-61] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:29:57.314 INFO [http-nio-8080-exec-61] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:32:36.910 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:32:43.147 WARNING [http-nio-8080-exec-66] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:32:43.147 WARNING [http-nio-8080-exec-66] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:32:43.148 WARNING [http-nio-8080-exec-66] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-54-SelectorManager] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/sun.nio.ch.KQueue.poll(Native Method)
+ java.base@17.0.11/sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:122)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+ platform/java.net.http@17.0.11/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:889)
+14-Sep-2024 21:32:43.148 SEVERE [http-nio-8080-exec-66] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2309706f]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@4eacd0f4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:32:44.886 INFO [http-nio-8080-exec-66] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:32:45.909 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:32:46.101 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:32:46.105 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:32:46.109 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:32:46.110 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:32:46.125 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:32:46.126 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:32:46.141 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:32:46.178 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:32:46.185 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:32:46.187 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:32:46.194 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:32:46.195 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:32:46.202 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:32:46.202 INFO [http-nio-8080-exec-66] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:32:46.252 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:32:46.282 INFO [http-nio-8080-exec-66] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:32:46.743 INFO [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:33:06.625 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:03.417 INFO [http-nio-8080-exec-79] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:34:03.421 INFO [http-nio-8080-exec-79] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:34:36.570 INFO [http-nio-8080-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:34:42.300 WARNING [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:42.300 WARNING [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:42.300 WARNING [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-56-SelectorManager] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/sun.nio.ch.KQueue.poll(Native Method)
+ java.base@17.0.11/sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:122)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+ platform/java.net.http@17.0.11/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:889)
+14-Sep-2024 21:34:42.300 WARNING [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-56-Worker-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:42.300 WARNING [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-56-Worker-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:42.301 SEVERE [http-nio-8080-exec-80] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@432f1c19]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@7c22d7a4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:34:44.098 INFO [http-nio-8080-exec-80] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:34:45.043 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:34:45.142 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:34:45.339 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:34:45.344 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:34:45.348 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:34:45.349 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:34:45.365 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:34:45.366 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:34:45.380 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:34:45.418 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:34:45.426 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:34:45.427 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:34:45.434 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:34:45.435 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:34:45.442 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:34:45.442 INFO [http-nio-8080-exec-80] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:34:45.492 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:34:45.520 INFO [http-nio-8080-exec-80] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:34:45.938 INFO [http-nio-8080-exec-80] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:37:05.531 INFO [http-nio-8080-exec-81] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:37:11.951 WARNING [http-nio-8080-exec-81] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Catalina-utility-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4770)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+ org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+ java.base@17.0.11/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+ java.base@17.0.11/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:37:11.951 WARNING [http-nio-8080-exec-81] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:37:13.396 INFO [http-nio-8080-exec-81] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:37:14.256 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:37:14.343 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:37:14.530 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:37:14.534 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:37:14.538 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:37:14.538 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:37:14.553 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:37:14.554 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:37:14.568 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:37:14.606 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:37:14.614 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:37:14.615 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:37:14.622 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:37:14.623 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:37:14.629 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:37:14.630 INFO [http-nio-8080-exec-81] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:37:14.676 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:37:14.704 INFO [http-nio-8080-exec-81] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:37:15.138 INFO [http-nio-8080-exec-81] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:38:10.166 INFO [http-nio-8080-exec-92] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:38:10.171 INFO [http-nio-8080-exec-92] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:42:35.697 INFO [http-nio-8080-exec-88] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:42:35.707 INFO [http-nio-8080-exec-88] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:45:13.615 INFO [http-nio-8080-exec-85] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:45:13.621 INFO [http-nio-8080-exec-85] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:46:00.887 INFO [http-nio-8080-exec-91] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:46:00.891 INFO [http-nio-8080-exec-91] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:46:27.551 INFO [http-nio-8080-exec-86] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:46:33.360 WARNING [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:46:33.361 WARNING [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-60-SelectorManager] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/sun.nio.ch.KQueue.poll(Native Method)
+ java.base@17.0.11/sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:122)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+ platform/java.net.http@17.0.11/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:889)
+14-Sep-2024 21:46:33.361 WARNING [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-60-Worker-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:46:33.361 WARNING [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-60-Worker-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:46:33.361 WARNING [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-60-Worker-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:46:33.361 SEVERE [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2664c23]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@62139a68]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:46:33.362 SEVERE [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2664c23]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@4bede2e1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:46:33.362 SEVERE [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2664c23]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@33c3564e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:46:33.362 SEVERE [http-nio-8080-exec-86] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2664c23]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@391e28be]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:46:35.151 INFO [http-nio-8080-exec-86] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:46:36.232 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:46:36.509 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:46:36.514 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:46:36.518 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:46:36.519 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:46:36.536 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:46:36.537 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:46:36.552 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:46:36.591 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:46:36.599 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:46:36.601 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:46:36.608 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:46:36.609 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:46:36.616 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:46:36.616 INFO [http-nio-8080-exec-86] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:46:36.664 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:46:36.692 INFO [http-nio-8080-exec-86] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:46:37.123 INFO [http-nio-8080-exec-86] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:46:43.613 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:47:30.456 INFO [http-nio-8080-exec-98] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:47:30.460 INFO [http-nio-8080-exec-98] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:48:19.570 INFO [http-nio-8080-exec-96] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:48:19.575 INFO [http-nio-8080-exec-96] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:48:42.532 INFO [http-nio-8080-exec-100] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:48:42.536 INFO [http-nio-8080-exec-100] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:48:51.189 INFO [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 21:48:56.795 WARNING [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:48:56.795 WARNING [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-62-SelectorManager] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/sun.nio.ch.KQueue.poll(Native Method)
+ java.base@17.0.11/sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:122)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+ java.base@17.0.11/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+ platform/java.net.http@17.0.11/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:889)
+14-Sep-2024 21:48:56.795 WARNING [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-62-Worker-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:48:56.795 WARNING [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-62-Worker-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:48:56.795 WARNING [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [HttpClient-62-Worker-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+ java.base@17.0.11/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:48:56.796 SEVERE [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@30a77ccc]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@6063c473]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:48:56.796 SEVERE [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@30a77ccc]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@7996c3b5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:48:56.796 SEVERE [http-nio-8080-exec-99] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@30a77ccc]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@e9dad4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 21:48:58.608 INFO [http-nio-8080-exec-99] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 21:48:59.608 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 21:48:59.786 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 21:48:59.791 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 21:48:59.794 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 21:48:59.799 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:48:59.814 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 21:48:59.815 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 21:48:59.829 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 21:48:59.873 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:48:59.880 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 21:48:59.882 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:48:59.889 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 21:48:59.889 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 21:48:59.896 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 21:48:59.896 INFO [http-nio-8080-exec-99] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 21:48:59.942 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 21:48:59.971 INFO [http-nio-8080-exec-99] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 21:49:00.410 INFO [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 21:49:05.338 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 21:50:01.746 INFO [http-nio-8080-exec-108] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 21:50:01.749 INFO [http-nio-8080-exec-108] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 22:40:37.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+14-Sep-2024 22:40:37.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+14-Sep-2024 22:40:37.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 22:40:37.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/conf/logging.properties
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+14-Sep-2024 22:40:37.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+14-Sep-2024 22:40:37.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 22:40:37.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+14-Sep-2024 22:40:37.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/temp
+14-Sep-2024 22:40:37.951 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+14-Sep-2024 22:40:38.056 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 22:40:38.066 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1030)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:525)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:957)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:708)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:731)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:239)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1304)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1317)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:632)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:79)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1028)
+		... 13 more
+14-Sep-2024 22:40:38.066 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [206] milliseconds
+14-Sep-2024 22:40:38.084 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+14-Sep-2024 22:40:38.084 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+14-Sep-2024 22:40:38.090 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war]
+14-Sep-2024 22:40:40.100 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 22:40:41.260 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+14-Sep-2024 22:40:41.264 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/parabank] startup failed due to previous errors
+14-Sep-2024 22:40:41.293 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 22:40:41.299 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war] has finished in [3,208] ms
+14-Sep-2024 22:40:41.299 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs]
+14-Sep-2024 22:40:41.321 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs] has finished in [22] ms
+14-Sep-2024 22:40:41.321 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager]
+14-Sep-2024 22:40:41.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager] has finished in [13] ms
+14-Sep-2024 22:40:41.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples]
+14-Sep-2024 22:40:41.471 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples] has finished in [137] ms
+14-Sep-2024 22:40:41.471 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT]
+14-Sep-2024 22:40:41.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT] has finished in [12] ms
+14-Sep-2024 22:40:41.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager]
+14-Sep-2024 22:40:41.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+14-Sep-2024 22:40:41.493 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3426] milliseconds
+14-Sep-2024 22:40:41.494 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:648)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:533)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:847)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+14-Sep-2024 22:40:41.494 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 22:40:41.494 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Sep-2024 22:40:41.531 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 22:40:41.531 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+14-Sep-2024 22:41:03.741 INFO [http-nio-8080-exec-110] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] has started
+14-Sep-2024 22:41:09.868 WARNING [http-nio-8080-exec-110] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 22:41:09.869 SEVERE [http-nio-8080-exec-110] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [parabank] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4f1cb2b1]) and a value of type [org.apache.cxf.BusFactory.BusHolder] (value [org.apache.cxf.BusFactory$BusHolder@12e70185]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+14-Sep-2024 22:41:11.730 INFO [http-nio-8080-exec-110] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+14-Sep-2024 22:41:12.900 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+14-Sep-2024 22:41:13.083 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+14-Sep-2024 22:41:13.088 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+14-Sep-2024 22:41:13.091 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+14-Sep-2024 22:41:13.092 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 22:41:13.107 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+14-Sep-2024 22:41:13.108 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+14-Sep-2024 22:41:13.122 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+14-Sep-2024 22:41:13.159 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 22:41:13.167 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+14-Sep-2024 22:41:13.169 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 22:41:13.177 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+14-Sep-2024 22:41:13.178 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+14-Sep-2024 22:41:13.185 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+14-Sep-2024 22:41:13.186 INFO [http-nio-8080-exec-110] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+14-Sep-2024 22:41:13.236 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+14-Sep-2024 22:41:13.269 INFO [http-nio-8080-exec-110] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+14-Sep-2024 22:41:13.721 INFO [http-nio-8080-exec-110] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/parabank] is completed
+14-Sep-2024 22:41:29.174 INFO [Log4j2-TF-2-Scheduled-1] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [org.apache.logging.log4j.core.util.AbstractWatcher$ReconfigurationRunnable]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1340)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1177)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1144)
+		at org.apache.logging.log4j.core.util.AbstractWatcher.modified(AbstractWatcher.java:55)
+		at org.apache.logging.log4j.core.util.WatchManager$WatchRunnable.run(WatchManager.java:125)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:840)
+14-Sep-2024 23:08:15.432 INFO [http-nio-8080-exec-119] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+14-Sep-2024 23:08:15.436 INFO [http-nio-8080-exec-119] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl

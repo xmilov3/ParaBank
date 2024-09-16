@@ -1,0 +1,393 @@
+13-Sep-2024 20:41:20.495 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:41:20.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:41:20.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/temp
+13-Sep-2024 20:41:20.506 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 20:41:20.599 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:41:20.609 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [179] milliseconds
+13-Sep-2024 20:41:20.622 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 20:41:20.622 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 20:41:20.625 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:41:20.725 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [100] ms
+13-Sep-2024 20:41:20.725 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:41:20.737 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [12] ms
+13-Sep-2024 20:41:20.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:41:20.823 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [86] ms
+13-Sep-2024 20:41:20.823 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:41:20.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [6] ms
+13-Sep-2024 20:41:20.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:41:20.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+13-Sep-2024 20:41:20.838 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:41:20.842 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [232] milliseconds
+13-Sep-2024 20:46:31.049 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+13-Sep-2024 20:46:31.071 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/examples]
+13-Sep-2024 20:46:31.076 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+13-Sep-2024 20:46:31.079 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+13-Sep-2024 20:46:31.082 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+13-Sep-2024 20:46:31.084 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:46:31.101 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [17] ms
+13-Sep-2024 20:46:31.101 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:46:31.112 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [11] ms
+13-Sep-2024 20:46:31.112 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:46:31.169 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [57] ms
+13-Sep-2024 20:46:31.169 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:46:31.174 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [5] ms
+13-Sep-2024 20:46:31.174 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:46:31.181 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+13-Sep-2024 20:46:41.188 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+13-Sep-2024 20:46:41.194 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/examples]
+13-Sep-2024 20:46:41.199 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+13-Sep-2024 20:46:41.202 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+13-Sep-2024 20:46:41.204 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/docs]
+13-Sep-2024 20:46:41.206 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:46:41.218 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [12] ms
+13-Sep-2024 20:46:41.218 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:46:41.228 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [10] ms
+13-Sep-2024 20:46:41.228 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:46:41.358 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [130] ms
+13-Sep-2024 20:46:41.359 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:46:41.368 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [9] ms
+13-Sep-2024 20:46:41.368 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:46:41.374 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [6] ms
+13-Sep-2024 20:46:46.574 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Sep-2024 20:46:46.575 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:46:46.576 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Sep-2024 20:46:46.605 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:46:46.614 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:46:50.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 20:46:50.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 20:46:50.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:46:50.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:46:50.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/temp
+13-Sep-2024 20:46:50.107 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 20:46:50.198 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:46:50.207 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [172] milliseconds
+13-Sep-2024 20:46:50.220 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 20:46:50.220 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 20:46:50.222 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:46:50.318 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [96] ms
+13-Sep-2024 20:46:50.318 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:46:50.329 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [11] ms
+13-Sep-2024 20:46:50.329 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:46:50.466 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [136] ms
+13-Sep-2024 20:46:50.466 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:46:50.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [7] ms
+13-Sep-2024 20:46:50.474 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:46:50.481 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+13-Sep-2024 20:46:50.482 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:46:50.486 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [279] milliseconds
+13-Sep-2024 20:47:21.582 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Sep-2024 20:47:21.582 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:47:21.584 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Sep-2024 20:47:21.618 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:47:21.631 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:47:50.074 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:47:50.076 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:47:50.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 20:47:50.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 20:47:50.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:47:50.081 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/temp
+13-Sep-2024 20:47:50.084 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 20:47:50.176 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:47:50.186 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [174] milliseconds
+13-Sep-2024 20:47:50.200 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 20:47:50.200 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 20:47:50.203 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:47:50.298 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [95] ms
+13-Sep-2024 20:47:50.298 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:47:50.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [12] ms
+13-Sep-2024 20:47:50.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:47:50.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [150] ms
+13-Sep-2024 20:47:50.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:47:50.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [10] ms
+13-Sep-2024 20:47:50.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:47:50.479 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+13-Sep-2024 20:47:50.480 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:47:50.484 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [298] milliseconds
+13-Sep-2024 20:51:12.692 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Sep-2024 20:51:12.693 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:51:12.695 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Sep-2024 20:51:12.728 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:51:12.732 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:52:29.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 20:52:29.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:52:29.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:52:29.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/temp
+13-Sep-2024 20:52:29.266 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 20:52:29.360 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:52:29.371 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [181] milliseconds
+13-Sep-2024 20:52:29.387 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 20:52:29.387 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 20:52:29.390 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:52:29.508 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [118] ms
+13-Sep-2024 20:52:29.508 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:52:29.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [15] ms
+13-Sep-2024 20:52:29.523 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:52:29.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [174] ms
+13-Sep-2024 20:52:29.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:52:29.708 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [11] ms
+13-Sep-2024 20:52:29.708 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:52:29.715 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [7] ms
+13-Sep-2024 20:52:29.717 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:52:29.722 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [350] milliseconds
+13-Sep-2024 20:58:33.474 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Sep-2024 20:58:33.475 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:58:33.476 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Sep-2024 20:58:33.515 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:58:33.523 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:58:36.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:58:36.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 20:58:36.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 20:58:36.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 20:58:36.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 20:58:36.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:58:36.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29
+13-Sep-2024 20:58:36.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/temp
+13-Sep-2024 20:58:36.222 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 20:58:36.313 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:58:36.322 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [172] milliseconds
+13-Sep-2024 20:58:36.335 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 20:58:36.335 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 20:58:36.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 20:58:36.435 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/docs] has finished in [96] ms
+13-Sep-2024 20:58:36.435 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 20:58:36.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/manager] has finished in [13] ms
+13-Sep-2024 20:58:36.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 20:58:36.605 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/examples] has finished in [157] ms
+13-Sep-2024 20:58:36.605 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 20:58:36.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/ROOT] has finished in [11] ms
+13-Sep-2024 20:58:36.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 20:58:36.624 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/host-manager] has finished in [8] ms
+13-Sep-2024 20:58:36.626 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 20:58:36.630 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [308] milliseconds
+13-Sep-2024 20:58:53.830 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/parabank.war]
+13-Sep-2024 20:58:55.773 INFO [http-nio-8080-exec-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Sep-2024 20:58:57.117 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+13-Sep-2024 20:58:57.373 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+13-Sep-2024 20:58:57.379 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+13-Sep-2024 20:58:57.384 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+13-Sep-2024 20:58:57.385 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 20:58:57.406 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+13-Sep-2024 20:58:57.407 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+13-Sep-2024 20:58:57.426 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+13-Sep-2024 20:58:57.469 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 20:58:57.478 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+13-Sep-2024 20:58:57.480 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 20:58:57.488 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+13-Sep-2024 20:58:57.490 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 20:58:57.498 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+13-Sep-2024 20:58:57.499 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+13-Sep-2024 20:58:57.572 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+13-Sep-2024 20:58:57.612 INFO [http-nio-8080-exec-4] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+13-Sep-2024 20:58:58.134 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/bartek/Desktop/Parabank/apache-tomcat-10.1.29/webapps/parabank.war] has finished in [4,304] ms
+13-Sep-2024 21:11:32.009 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Sep-2024 21:11:32.010 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 21:11:32.011 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Sep-2024 21:11:37.959 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [parabank] appears to have started a thread named [Log4j2-TF-2-Scheduled-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.11/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.11/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.11/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1674)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.11/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.11/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.11/java.lang.Thread.run(Thread.java:840)
+13-Sep-2024 21:11:37.965 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 21:11:37.973 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 21:14:15.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.29
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 5 2024 14:23:34 UTC
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.29.0
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.5
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/bartek/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-LTS
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+13-Sep-2024 21:14:15.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/conf/logging.properties
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29
+13-Sep-2024 21:14:15.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/temp
+13-Sep-2024 21:14:15.318 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/bartek/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Sep-2024 21:14:15.409 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 21:14:15.419 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [175] milliseconds
+13-Sep-2024 21:14:15.433 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Sep-2024 21:14:15.433 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.29]
+13-Sep-2024 21:14:15.440 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war]
+13-Sep-2024 21:14:17.573 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Sep-2024 21:14:18.912 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}ParaBank from class com.parasoft.parabank.service.ParaBankService
+13-Sep-2024 21:14:19.157 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /ParaBank
+13-Sep-2024 21:14:19.163 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from class com.parasoft.parabank.service.LoanProcessorService
+13-Sep-2024 21:14:19.167 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /LoanProcessor
+13-Sep-2024 21:14:19.168 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 21:14:19.187 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01
+13-Sep-2024 21:14:19.188 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore2.parasoft.com/}Bookstore2 from class com.parasoft.bookstore2.ICartService
+13-Sep-2024 21:14:19.204 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-01V2
+13-Sep-2024 21:14:19.247 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 21:14:19.255 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-01
+13-Sep-2024 21:14:19.257 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 21:14:19.265 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-02
+13-Sep-2024 21:14:19.266 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromClass Creating Service {http://bookstore.parasoft.com/}Bookstore from class com.parasoft.bookstore.ICartService
+13-Sep-2024 21:14:19.274 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-03
+13-Sep-2024 21:14:19.275 INFO [main] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://bookstore.parasoft.com/}Bookstore from WSDL: store-04.wsdl
+13-Sep-2024 21:14:19.337 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /store-wss-04
+13-Sep-2024 21:14:19.373 INFO [main] org.apache.cxf.endpoint.ServerImpl.initDestination Setting the server's publish address to be /bank
+13-Sep-2024 21:14:19.873 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/parabank.war] has finished in [4,433] ms
+13-Sep-2024 21:14:19.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs]
+13-Sep-2024 21:14:19.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/docs] has finished in [9] ms
+13-Sep-2024 21:14:19.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager]
+13-Sep-2024 21:14:19.892 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/manager] has finished in [9] ms
+13-Sep-2024 21:14:19.893 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples]
+13-Sep-2024 21:14:20.022 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/examples] has finished in [130] ms
+13-Sep-2024 21:14:20.022 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT]
+13-Sep-2024 21:14:20.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/ROOT] has finished in [8] ms
+13-Sep-2024 21:14:20.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager]
+13-Sep-2024 21:14:20.036 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/webapps/host-manager] has finished in [6] ms
+13-Sep-2024 21:14:20.037 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Sep-2024 21:14:20.042 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4622] milliseconds
+13-Sep-2024 22:36:34.976 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:36:34.980 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:36:50.704 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:36:50.708 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:45:51.822 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:45:51.827 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:46:58.119 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:46:58.123 INFO [http-nio-8080-exec-4] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:27.278 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:27.284 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:42.617 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:42.622 INFO [http-nio-8080-exec-1] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:52.289 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:47:52.294 INFO [http-nio-8080-exec-7] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:11.761 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:11.765 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:22.583 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:22.587 INFO [http-nio-8080-exec-10] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:29.351 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:29.355 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:35.312 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:35.316 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:50.243 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:49:50.247 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:50:24.063 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:50:24.067 INFO [http-nio-8080-exec-3] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:13.599 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:13.603 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:37.621 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:37.625 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:43.669 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 22:51:43.681 INFO [http-nio-8080-exec-6] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:44:21.603 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:44:21.607 INFO [http-nio-8080-exec-2] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:44:29.144 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:44:29.148 INFO [http-nio-8080-exec-5] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:47:02.100 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:47:02.103 INFO [http-nio-8080-exec-9] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:54:53.920 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:54:53.924 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:55:29.853 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
+13-Sep-2024 23:55:29.856 INFO [http-nio-8080-exec-8] org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean.buildServiceFromWSDL Creating Service {http://service.parabank.parasoft.com/}LoanProcessorServiceImplService from WSDL: http://localhost:8080/parabank/services/LoanProcessor?wsdl
