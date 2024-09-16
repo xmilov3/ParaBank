@@ -10,7 +10,7 @@ on:
 
 jobs:
   tomcat:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest #check if it runs on ubuntu-latest
 
     steps:
       - name: Checkout code
