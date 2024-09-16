@@ -28,10 +28,11 @@ jobs:
           java-version: 17
           distribution: corretto
 
-      - name: Start Tomcat
+      - name: Start Tomcat # change to windows extension .bat
         run: |
-          tools/apache-tomcat-10.1.29/bin/startup.sh 
-          sleep 30
+          cd tools/apache-tomcat-10.1.29/bin
+          nohup ./startup.bat > ../logs/catalina.out 2>&1 &
+          sleep 60
 
       - name: Cache Cypress binary
         uses: actions/cache@v3
@@ -51,5 +52,7 @@ jobs:
       - name: Run Cypress tests
         run: npx cypress run
 
-      - name: Stop Tomcat
-        run: tools/apache-tomcat-10.1.29/bin/shutdown.sh
+      - name: Stop Tomcat # change to windows extension .bat
+        run: |
+          cd tools/apache-tomcat-10.1.29/bin
+          ./shutdown.bat
