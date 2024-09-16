@@ -23,12 +23,19 @@ describe("Loan Application", () => {
     // Generate random loanAmount and downPayment using Faker
     const loanAmount = faker.number.int({ min: 10, max: 10 });
     const downPayment = faker.number.int({ min: 100, max: 300 });
+    const fromAcc = "13677";
 
     cy.get("#amount").type(loanAmount);
     cy.get("#downPayment").type(downPayment);
-    cy.wait(2000);
-    cy.get("select#fromAccountId").should("be.visible");
-    cy.get("select#fromAccountId").select("13677");
+
+    // Be sure that it will be visible for test
+    cy.get("select#fromAccountId")
+      .find("option")
+      .each((option) => {
+        cy.log(`Option value: ${option.val()}, Option text: ${option.text()}`);
+      });
+
+    cy.get("select#fromAccountId").select(fromAcc); // Use variable
 
     cy.get('input.button[value="Apply Now"]').click();
 

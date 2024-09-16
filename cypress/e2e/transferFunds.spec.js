@@ -16,15 +16,20 @@ describe("Fund Transfer", () => {
 
     // Define variables for transfer
     const transferAmount = "10";
+    const fromAcc = "13566";
+    const toAcc = "13677";
 
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
     cy.wait(2000);
-    cy.get("select#fromAccountId").should("be.visible");
-    cy.get("select#fromAccountId").select("13566");
+    cy.get("select#fromAccountId", { timeout: 10000 }).should("be.visible");
+    cy.get("select#fromAccountId").select(fromAcc);
+
     cy.wait(2000);
-    cy.get("select#toAccountId").should("be.visible");
-    cy.get("select#toAccountId").select("13677");
+
+    // Be sure that it will be visible for test
+    cy.get("select#toAccountId", { timeout: 10000 }).should("be.visible");
+    cy.get("select#toAccountId").select(toAcc);
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
