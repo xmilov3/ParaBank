@@ -29,13 +29,8 @@ describe("Loan Application", () => {
     cy.get("#amount").type(loanAmount);
     cy.get("#downPayment").type(downPayment);
 
-    // Open and select the option in the 'fromAccountId' dropdown
-    cy.get("select#fromAccountId").click(); // Open dropdown
-    cy.get("select#fromAccountId option")
-      .contains(fromAcc)
-      .then((option) => {
-        cy.get("select#fromAccountId").select(option.val()); // Select option by value
-      });
+    // Select the 'fromAccountId' dropdown option by value
+    cy.get("select#fromAccountId").select(fromAcc); // Use select() directly
 
     cy.get('input.button[value="Apply Now"]').click();
 

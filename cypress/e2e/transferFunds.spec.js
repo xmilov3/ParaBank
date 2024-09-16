@@ -23,23 +23,13 @@ describe("Fund Transfer", () => {
     cy.get("#amount").type(transferAmount);
     cy.wait(2000);
 
-    // Open and select the option in the 'fromAccountId' dropdown
-    cy.get("select#fromAccountId").click(); // Open dropdown
-    cy.get("select#fromAccountId option")
-      .contains(fromAcc)
-      .then((option) => {
-        cy.get("select#fromAccountId").select(option.val()); // Select option by value
-      });
+    // Select the 'fromAccountId' dropdown option by value
+    cy.get("select#fromAccountId").select(fromAcc); // Use select() directly
 
     cy.wait(2000);
 
-    // Open and select the option in the 'toAccountId' dropdown
-    cy.get("select#toAccountId").click(); // Open dropdown
-    cy.get("select#toAccountId option")
-      .contains(toAcc)
-      .then((option) => {
-        cy.get("select#toAccountId").select(option.val()); // Select option by value
-      });
+    // Select the 'toAccountId' dropdown option by value
+    cy.get("select#toAccountId").select(toAcc); // Use select() directly
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
