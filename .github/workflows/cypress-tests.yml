@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: 17
-          distribution: "adopt-openjdk" # Możesz użyć 'temurin' jeśli jest dostępny
+          distribution: coretto
           java-package: jdk
           check-latest: false
           server-id: github
