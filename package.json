@@ -4,11 +4,14 @@
   "description": "Node.js project with Cypress tests",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start:tomcat",
     "start:tomcat": "cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin && ./startup.sh",
-    "prepare:env": "npx cypress run --spec 'cypress/setup/*.spec.js'",
-    "cy:run": "npx cypress run --config-file ./cypress.config.js",
-    "test": "echo \"No test specified\" && exit 0"
+    "stop:tomcat": "cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin && ./shutdown.sh",
+    "prepare:env": "npx cypress run --spec 'cypress/e2e/addData.spec.js'",
+    "allTest:run": "npx cypress run --config-file ./cypress.config.js",
+    "billPayTest:run": "npx cypress run --spec 'cypress/e2e/billPay.spec.js'",
+    "findTransactionTest:run": "npx cypress run --spec 'cypress/e2e/findTransaction.spec.js'",
+    "requestLoanTest:run": "npx cypress run --spec 'cypress/e2e/requestLoan.spec.js'",
+    "transferFundsTest:run": "npx cypress run --spec 'cypress/e2e/transferFunds.spec.js'"
   },
   "keywords": [],
   "author": "Bartosz Milewski",

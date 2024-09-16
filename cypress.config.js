@@ -12,6 +12,5 @@ module.exports = defineConfig({
     baseUrl: "http://localhost:8080/parabank/index.htm",
     supportFile: "cypress/support/e2e.js",
     specPattern: "cypress/e2e/**/*.spec.js",
-    // specPattern: "cypress/setup/**/*.spec.js", // need to fix it, because can't run addData.spec.js separetly
   },
 });
