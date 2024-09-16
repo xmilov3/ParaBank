@@ -22,14 +22,24 @@ describe("Fund Transfer", () => {
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
     cy.wait(2000);
-    cy.get("select#fromAccountId", { timeout: 10000 }).should("be.visible");
-    cy.get("select#fromAccountId").select(fromAcc);
+
+    // Open and select the option in the 'fromAccountId' dropdown
+    cy.get("select#fromAccountId").click(); // Open dropdown
+    cy.get("select#fromAccountId option")
+      .contains(fromAcc)
+      .then((option) => {
+        cy.get("select#fromAccountId").select(option.val()); // Select option by value
+      });
 
     cy.wait(2000);
 
-    // Be sure that it will be visible for test
-    cy.get("select#toAccountId", { timeout: 10000 }).should("be.visible");
-    cy.get("select#toAccountId").select(toAcc);
+    // Open and select the option in the 'toAccountId' dropdown
+    cy.get("select#toAccountId").click(); // Open dropdown
+    cy.get("select#toAccountId option")
+      .contains(toAcc)
+      .then((option) => {
+        cy.get("select#toAccountId").select(option.val()); // Select option by value
+      });
 
     // Submit the transfer
     cy.get('input.button[value="Transfer"]').click();
@@ -37,6 +47,7 @@ describe("Fund Transfer", () => {
     // Validate that the transfer was successful
     cy.get("#rightPanel").should("contain", "Transfer Complete!");
 
+    // Log out
     cy.xpath("//a[text()='Log Out']").click();
   });
 });
