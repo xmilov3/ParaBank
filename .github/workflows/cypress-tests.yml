@@ -1,4 +1,4 @@
-name: Cypress Tests
+name: Tomcat Workflow
 
 on:
   push:
@@ -9,38 +9,35 @@ on:
       - main
 
 jobs:
-  cypress-run:
+  tomcat:
     runs-on: macos-latest
 
     steps:
-      - name: Checkout the repository
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Setup Java (for Tomcat)
+      - name: Setup Java
         uses: actions/setup-java@v3
         with:
           java-version: 17
           distribution: corretto
-          java-package: jdk
-          check-latest: false
-          server-id: github
-          server-username: ${{ github.actor }}
-          server-password: ${{ secrets.GITHUB_TOKEN }}
-          overwrite-settings: true
-          job-status: success
-
-      - name: Install dependencies
-        run: npm install
 
       - name: Start Tomcat
         run: |
-          cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin/
-          ./startup.sh & 
-          # Wait for Tomcat to start
+          cd tools/apache-tomcat-10.1.29/bin
+          nohup ./startup.sh > ../logs/catalina.out 2>&1 &
+          # Wait for Tomcat to fully start
           sleep 30
 
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./ParaBank
+
       - name: Run Cypress tests
+        run: npx cypress run
+        working-directory: ./ParaBank
+
+      - name: Stop Tomcat
         run: |
-          npx cypress run
-        env:
-          CI: true
+          cd tools/apache-tomcat-10.1.29/bin
+          ./shutdown.sh

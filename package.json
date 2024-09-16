@@ -1,8 +1,4 @@
 {
-  "name": "modules",
-  "version": "1.0.0",
-  "description": "Node.js project with Cypress tests",
-  "main": "index.js",
   "scripts": {
     "start:tomcat": "cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin && ./startup.sh",
     "stop:tomcat": "cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin && ./shutdown.sh",
@@ -11,13 +7,16 @@
     "billPayTest:run": "npx cypress run --spec 'cypress/e2e/billPay.spec.js'",
     "findTransactionTest:run": "npx cypress run --spec 'cypress/e2e/findTransaction.spec.js'",
     "requestLoanTest:run": "npx cypress run --spec 'cypress/e2e/requestLoan.spec.js'",
-    "transferFundsTest:run": "npx cypress run --spec 'cypress/e2e/transferFunds.spec.js'"
+    "transferFundsTest:run": "npx cypress run --spec 'cypress/e2e/transferFunds.spec.js'",
+    "generate:report": "npx mochawesome-merge cypress/reports/*.json > cypress/reports/report.json && npx mochawesome-report-generator cypress/reports/report.json"
   },
-  "keywords": [],
-  "author": "Bartosz Milewski",
+  "name": "parabank_tests",
+  "version": "1.0.0",
+  "description": "A module for testing",
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^9.0.0",
-    "cypress": "^13.14.2"
+    "cypress": "^13.14.2",
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }
