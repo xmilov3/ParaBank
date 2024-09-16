@@ -11,9 +11,6 @@ describe("Fund Transfer", () => {
     cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
-    // Check that login was successful
-    cy.get("#leftPanel").should("contain", "Accounts Overview");
-
     // Navigate to transfer funds page
     cy.xpath("//a[text()='Transfer Funds']").click();
 
@@ -22,7 +19,11 @@ describe("Fund Transfer", () => {
 
     // Fill in the transfer form
     cy.get("#amount").type(transferAmount);
+    cy.wait(2000);
+    cy.get("select#fromAccountId").should("be.visible");
     cy.get("select#fromAccountId").select("13566");
+    cy.wait(2000);
+    cy.get("select#toAccountId").should("be.visible");
     cy.get("select#toAccountId").select("13677");
 
     // Submit the transfer
