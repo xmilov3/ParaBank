@@ -10,7 +10,7 @@ on:
 
 jobs:
   tomcat:
-    runs-on: windows-latest #check if it runs on windows-latest
+    runs-on: windows-latest # check if it runs on windows-latest
 
     steps:
       - name: Checkout code
@@ -20,7 +20,7 @@ jobs:
         run: ls -R
 
       - name: Create logs directory
-        run: mkdir -p tools/apache-tomcat-10.1.29/logs
+        run: mkdir -p tools/apache-tomcat-10.1.29/logs_windows # changed path because this already exists
 
       - name: Setup Java
         uses: actions/setup-java@v3
