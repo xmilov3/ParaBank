@@ -51,7 +51,8 @@ jobs:
 
       - name: Run Cypress tests
         run: npx cypress run
-        base_url: "http://localhost:8080/parabank/index.htm"
+        env:
+          CYPRESS_baseUrl: "http://localhost:8080/parabank/index.htm" # Set website url
 
       - name: Stop Tomcat
         run: |
