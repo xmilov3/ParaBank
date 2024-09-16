@@ -29,13 +29,16 @@ jobs:
           # Wait for Tomcat to fully start
           sleep 30
 
+      - name: List directory contents
+        run: ls -R
+
       - name: Install dependencies
         run: npm install
-        working-directory: ./ParaBank
+        working-directory: ParaBank
 
       - name: Run Cypress tests
         run: npx cypress run
-        working-directory: ./ParaBank
+        working-directory: ParaBank
 
       - name: Stop Tomcat
         run: |
