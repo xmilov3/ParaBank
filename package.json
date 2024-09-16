@@ -1,12 +1,14 @@
 {
   "name": "modules",
   "version": "1.0.0",
-  "description": "node_modules",
+  "description": "Node.js project with Cypress tests",
   "main": "index.js",
   "scripts": {
-    "test": "npm publish",
-    "start": "http-server ./ -p 8443",
-    "cy:run": "cypress run cypress.config.js"
+    "start": "npm run start:tomcat",
+    "start:tomcat": "cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin && ./startup.sh",
+    "prepare:env": "npx cypress run --spec 'cypress/setup/*.spec.js'",
+    "cy:run": "npx cypress run --config-file ./cypress.config.js",
+    "test": "echo \"No test specified\" && exit 0"
   },
   "keywords": [],
   "author": "Bartosz Milewski",

@@ -22,8 +22,7 @@ describe("Transaction Search", () => {
     cy.get("#accountId").select(accNumber);
 
     cy.get("#findByAmount").click();
-
-    cy.wait(1000);
+    //cy.xpath("//a[text()='Funds Transfer Sent']").click();
   });
 
   beforeEach(() => {
@@ -53,8 +52,8 @@ describe("Transaction Search", () => {
     cy.get('input[id="transactionDate"]').type(formattedDate);
     cy.get("#accountId").select(accNumber);
     cy.get("#findByDate").click();
+    //cy.xpath("//a[text()='Bill Payment to Jonatan']").click();
 
-    cy.wait(1000);
     cy.xpath("//a[text()='Log Out']").click();
   });
 
@@ -96,7 +95,7 @@ describe("Transaction Search", () => {
     cy.get('input[id="toDate"]').type(formattedDate);
     cy.get("#accountId").select(accNumber);
     cy.get("#findByDateRange").click();
-    cy.wait(1000);
+
     cy.xpath("//a[text()='Log Out']").click();
   });
 });

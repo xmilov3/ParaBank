@@ -16,26 +16,23 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: List directory contents
-        run: ls -R
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Java (for Tomcat)
+        uses: actions/setup-java@v3
         with:
-          node-version: "22.3"
+          java-version: "17"
 
       - name: Install dependencies
-        run: |
-          npm install
+        run: npm install
 
-      - name: Start the server
+      - name: Start Tomcat
         run: |
-          npm start &
-        env:
-          CYPRESS_baseUrl: "http://localhost:8080/parabank/index.htm"
+          cd /Users/bartek/Desktop/Parabank-task/apache-tomcat-10.1.29/bin/
+          ./startup.sh & 
+          # Wait for Tomcat to start
+          sleep 30
 
       - name: Run Cypress tests
         run: |
-          npx cypress run --config-file ./cypress.config.js
+          npx cypress run
         env:
           CI: true

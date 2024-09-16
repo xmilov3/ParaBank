@@ -20,7 +20,7 @@ describe("Pay bill test", () => {
     cy.get('select[name="fromAccountId"]').select(0); // From account
     cy.get('input[type="button"]').click();
     cy.contains("Bill Payment Complete").should("be.visible");
-    cy.wait(1000);
+
     cy.xpath("//a[text()='Log Out']").click();
   });
 });
