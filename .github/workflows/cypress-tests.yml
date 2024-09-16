@@ -13,14 +13,14 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - name: Checkout the repository
+      - name: ParaBank
         uses: actions/checkout@v3
 
       - name: Setup Java (for Tomcat)
         uses: actions/setup-java@v3
         with:
           java-version: "17"
-          java-distribution: "adopt-openjdk" # Dodano dystrybucję Javy
+          java-distribution: "coretto"
           check-latest: false
           server-id: github
           server-username: ${{ github.actor }}
