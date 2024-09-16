@@ -43,9 +43,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-cypress-
 
-      - name: Check Tomcat status
+      - name: Show Tomcat logs # Check tomcat localhost address
         run: |
-          curl -I http://localhost:8080/parabank/index.htm || echo "Tomcat may not be running or not reachable"
+          cat tools/apache-tomcat-10.1.29/logs/catalina.out
 
       - name: Install dependencies
         run: npm install
