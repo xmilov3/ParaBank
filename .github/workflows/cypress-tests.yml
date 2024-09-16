@@ -43,6 +43,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-cypress-
 
+      - name: Check Tomcat status
+        run: |
+          curl -I http://localhost:8080/parabank/index.htm || echo "Tomcat may not be running or not reachable"
+
       - name: Install dependencies
         run: npm install
 
