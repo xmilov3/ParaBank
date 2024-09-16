@@ -30,8 +30,7 @@ jobs:
 
       - name: Start Tomcat
         run: |
-          cd tools/apache-tomcat-10.1.29/bin
-          nohup ./startup.sh > ../logs/catalina.out 2>&1 &
+          tools/apache-tomcat-10.1.29/bin/startup.sh 
           sleep 30
 
       - name: Cache Cypress binary
@@ -43,10 +42,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-cypress-
 
-      - name: Show Tomcat logs # Check tomcat localhost address
-        run: |
-          cat tools/apache-tomcat-10.1.29/logs/catalina.out
-
       - name: Install dependencies
         run: npm install
 
@@ -55,10 +50,6 @@ jobs:
 
       - name: Run Cypress tests
         run: npx cypress run
-        env:
-          CYPRESS_baseUrl: "http://localhost:8080/parabank/index.htm" # Set website url
 
       - name: Stop Tomcat
-        run: |
-          cd tools/apache-tomcat-10.1.29/bin
-          ./shutdown.sh
+        run: tools/apache-tomcat-10.1.29/bin/shutdown.sh
