@@ -6,40 +6,38 @@ describe("Transaction Search", () => {
     cy.visit("http://localhost:8080/parabank/index.htm");
   });
 
-  it("should search for a transaction based on account number and amount", () => {
+  it("Should search for a transaction based on account number and amount", () => {
+    // Login
     cy.get('input[name="username"]').type("john123");
     cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
-    cy.get("#leftPanel").should("contain", "Accounts Overview");
-
+    // Select 'Find transactions' in menu
     cy.xpath("//a[text()='Find Transactions']").click();
 
+    // Add account number and transaction amount as a constant
     const accNumber = "13566";
     const transactionAmount = "10";
 
+    // Fill 'Find transaction' form
     cy.get('input[id="amount"]').type(transactionAmount);
     cy.get("#accountId").select(accNumber);
 
     cy.get("#findByAmount").click();
-    //cy.xpath("//a[text()='Funds Transfer Sent']").click();
-  });
-
-  beforeEach(() => {
-    cy.clearCookies();
-    cy.visit("http://localhost:8080/parabank/index.htm");
   });
 
   it("should search for a transaction based on account number and date", () => {
+    // Login
     cy.get('input[name="username"]').type("john123");
     cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
-    cy.get("#leftPanel").should("contain", "Accounts Overview");
-
+    // Select 'Find transactions' in menu
     cy.xpath("//a[text()='Find Transactions']").click();
 
+    // Add account number as a constant
     const accNumber = "13566";
+
     // Date format from YYYY-MM-DD to MM-DD-YYYY
     const today = new Date();
     const formattedDate =
@@ -49,6 +47,7 @@ describe("Transaction Search", () => {
       "-" +
       today.getFullYear(); // Year
 
+    // Fill 'Find transaction' form
     cy.get('input[id="transactionDate"]').type(formattedDate);
     cy.get("#accountId").select(accNumber);
     cy.get("#findByDate").click();
@@ -57,18 +56,13 @@ describe("Transaction Search", () => {
     cy.xpath("//a[text()='Log Out']").click();
   });
 
-  beforeEach(() => {
-    cy.clearCookies();
-    cy.visit("http://localhost:8080/parabank/index.htm");
-  });
-
   it("should search for a transaction based on account number and date range", () => {
+    //Login
     cy.get('input[name="username"]').type("john123");
     cy.get('input[name="password"]').type("zaq1@WSX");
     cy.get("input.button").contains("Log In").click();
 
-    cy.get("#leftPanel").should("contain", "Accounts Overview");
-
+    // Select 'Find transactions' in menu
     cy.xpath("//a[text()='Find Transactions']").click();
 
     const accNumber = "13566";
@@ -91,11 +85,13 @@ describe("Transaction Search", () => {
       "-" +
       oneWeekAgo.getFullYear(); // Year
 
+    // Fill 'Find transaction' form
     cy.get('input[id="fromDate"]').type(formattedOneWeekAgo);
     cy.get('input[id="toDate"]').type(formattedDate);
     cy.get("#accountId").select(accNumber);
     cy.get("#findByDateRange").click();
 
+    // Logout
     cy.xpath("//a[text()='Log Out']").click();
   });
 });

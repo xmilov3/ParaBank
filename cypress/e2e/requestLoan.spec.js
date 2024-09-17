@@ -5,19 +5,16 @@ describe("Loan Application", () => {
   beforeEach(() => {
     // Clearing cookies
     cy.clearCookies();
+    // Visit page
     cy.visit("http://localhost:8080/parabank/index.htm");
+    // Login
+    cy.get('#loginPanel input[name="username"]').type("john123");
+    cy.get('#loginPanel input[name="password"]').type("zaq1@WSX");
+    cy.get('#loginPanel input[type="submit"]').click();
   });
 
   it("Should allow user to apply for a loan with random data", () => {
-    // Logging in before test
-    cy.get('input[name="username"]').type("john123");
-    cy.get('input[name="password"]').type("zaq1@WSX");
-    cy.get("input.button").contains("Log In").click();
-
-    // Check that login was successful
-    cy.get("#leftPanel").should("contain", "Accounts Overview");
-
-    // Go to loan form
+    // Go to loan page
     cy.xpath("//a[text()='Request Loan']").click();
 
     // Generate random loanAmount and downPayment using Faker
@@ -32,6 +29,7 @@ describe("Loan Application", () => {
     // Select the 'fromAccountId' dropdown option by value
     cy.get("select#fromAccountId").select(fromAcc); // Use select() directly
 
+    // Click 'Apply Now' buttton
     cy.get('input.button[value="Apply Now"]').click();
 
     // Verify that the loan request was processed with the random values

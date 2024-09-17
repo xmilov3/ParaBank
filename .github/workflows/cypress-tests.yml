@@ -10,7 +10,7 @@ on:
 
 jobs:
   tomcat:
-    runs-on: windows-latest # check if it runs on windows-latest
+    runs-on: macos-latest # For widnows -> runs-on: windows-latest | For Ubuntu -> runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
@@ -20,7 +20,7 @@ jobs:
         run: ls -R
 
       - name: Create logs directory
-        run: mkdir -p tools/apache-tomcat-10.1.29/logs_win # changed path because this already exists
+        run: mkdir -p tools/apache-tomcat-10.1.29/logs # For Windows -> run: mkdir -p tools/apache-tomcat-10.1.29/logs_win |
 
       - name: Setup Java
         uses: actions/setup-java@v3
@@ -28,10 +28,10 @@ jobs:
           java-version: 17
           distribution: corretto
 
-      - name: Start Tomcat # change to windows extension .bat
+      - name: Start Tomcat # For widnows -> extension .sh -> .bat = ./startup.bat
         run: |
           cd tools/apache-tomcat-10.1.29/bin
-          nohup ./startup.bat > ../logs/catalina.out 2>&1 &
+          nohup ./startup.sh > ../logs/catalina.out 2>&1 &
           sleep 60
 
       - name: Cache Cypress binary
@@ -52,7 +52,7 @@ jobs:
       - name: Run Cypress tests
         run: npx cypress run
 
-      - name: Stop Tomcat # change to windows extension .bat
+      - name: Stop Tomcat # For widnows -> extension .sh -> .bat = ./shutdown.bat
         run: |
           cd tools/apache-tomcat-10.1.29/bin
-          ./shutdown.bat
+          ./shutdown.sh

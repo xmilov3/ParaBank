@@ -1,13 +1,20 @@
 describe("Pay bill test", () => {
   beforeEach(() => {
+    // Clearing cookies and visiting the website
+    cy.clearCookies();
+    // Visit page
     cy.visit("http://localhost:8080/parabank/index.htm");
+    // Login
     cy.get('#loginPanel input[name="username"]').type("john123");
     cy.get('#loginPanel input[name="password"]').type("zaq1@WSX");
     cy.get('#loginPanel input[type="submit"]').click();
   });
 
-  it("Should request for a Loan", () => {
+  it("Should pay the bill", () => {
+    // Click Bill Pay option
     cy.get('#leftPanel a[href*="billpay.htm"]').click();
+
+    // Fill the form with user data
     cy.get('input[name="payee.name"]').type("Jonatan");
     cy.get('input[name="payee.address.street"]').type("Forest Ave");
     cy.get('input[name="payee.address.city"]').type("New York");
@@ -19,8 +26,10 @@ describe("Pay bill test", () => {
     cy.get('input[name="amount"]').type("10");
     cy.get('select[name="fromAccountId"]').select(0); // From account
     cy.get('input[type="button"]').click();
-    cy.contains("Bill Payment Complete").should("be.visible");
 
+    // Verify registration success
+    cy.get("#billpayResult").should("contain", "Bill Payment Complete");
+    // Logout
     cy.xpath("//a[text()='Log Out']").click();
   });
 });

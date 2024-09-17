@@ -2,15 +2,15 @@ describe("Fund Transfer", () => {
   beforeEach(() => {
     // Clearing cookies and visiting the website
     cy.clearCookies();
+    // Visit page
     cy.visit("http://localhost:8080/parabank/index.htm");
+    // Login
+    cy.get('#loginPanel input[name="username"]').type("john123");
+    cy.get('#loginPanel input[name="password"]').type("zaq1@WSX");
+    cy.get('#loginPanel input[type="submit"]').click();
   });
 
   it("Should allow the user to transfer 10$ between accounts", () => {
-    // Logging in to the account
-    cy.get('input[name="username"]').type("john123");
-    cy.get('input[name="password"]').type("zaq1@WSX");
-    cy.get("input.button").contains("Log In").click();
-
     // Navigate to transfer funds page
     cy.xpath("//a[text()='Transfer Funds']").click();
 

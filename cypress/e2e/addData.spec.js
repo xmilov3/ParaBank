@@ -1,5 +1,6 @@
 describe("Register new user for tests", () => {
   beforeEach(() => {
+    // Clearing cookies and visiting the website
     cy.clearCookies();
     cy.visit("http://localhost:8080/parabank/index.htm");
   });
@@ -34,10 +35,16 @@ describe("Register new user for tests", () => {
     // Define type of Account I would like to open
     const savingsAccount = "SAVINGS";
 
+    // Click open new account in manu
     cy.xpath("//a[text()='Open New Account']").click();
+    // Select 'Savings' type of account
     cy.get("#type").select(savingsAccount);
+    // Click submit button
     cy.get('input[type="button"]').click();
 
+    // Verify open account success
+    cy.get("#openAccountResult").should("openAccountResult");
+    // Logout
     cy.xpath("//a[text()='Log Out']").click();
   });
 });
