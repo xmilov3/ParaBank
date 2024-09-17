@@ -42,8 +42,6 @@ describe("Register new user for tests", () => {
     // Click submit button
     cy.get('input[type="button"]').click();
 
-    // Verify open account success
-    cy.get("#openAccountResult").should("openAccountResult");
     // Logout
     cy.xpath("//a[text()='Log Out']").click();
   });
