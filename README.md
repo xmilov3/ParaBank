@@ -88,7 +88,7 @@ npm install --save-dev
 
 ## Start tests
 
-### To run tests you have to follow steps below:
+### To run tests in User Interface mode you have to follow steps below:
 
 Start Tomcat server and open cypress
 
@@ -101,13 +101,37 @@ cd /apache-tomcat-10.1.29/bin/
 Go to /cypress/e2e folder in downloaded repository
 
 ```
-npx cypress open (for UI testing)
-npx cypress run (for Headless Mode testing)
+npx cypress open
 ```
-
-(Before starting the tests you'll run addData.spec.js to put sample data to test)
 
 Choose "E2E Testing"
 Select testing browser and click "Start E2E Testing"
 Go to /e2e folder
 Click the test to run it
+
+### To run tests in Headless Mode:
+
+Start Tomcat server and run cypress
+
+```
+cd /apache-tomcat-10.1.29/bin/
+./startup.sh (for Unix)
+.startup.bat (for Windows)
+npx cypress run (for Headless Mode testing)
+```
+
+Go to package.json file, and above the scripts will be Debug button, click and run the tests.
+
+You can also run it in command line, just type "npm run" and script. For example:
+
+```
+npm run start:tomcat
+npm run allTest:run
+npm run stop:tomcat
+```
+
+## Be aware of
+
+Before starting the tests you have to run addData.spec.js to put sample data to test
+
+Don't run addData.spec.js at the beggining if you want to start all tests at once
